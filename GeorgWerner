@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Analog Lab Pro</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #ff6b00;
+            border-bottom: 3px solid #ff6b00;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #ff6b00;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #666;
+            margin-top: 20px;
+        }
+        .last-updated {
+            color: #999;
+            font-size: 14px;
+            font-style: italic;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .contact-info {
+            background-color: #fff;
+            padding: 15px;
+            border-left: 4px solid #ff6b00;
+            margin: 20px 0;
+        }
+        footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #999;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p class="last-updated">Last Updated: January 2026</p>
+
+    <h2>Introduction</h2>
+    <p>Analog Lab Pro ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.</p>
+
+    <h2>Information We Collect</h2>
+    
+    <h3>Camera and Photo Library Access</h3>
+    <p>Analog Lab Pro requires camera access to capture photos with film emulations. All photo processing happens on your device. We do not collect, store, or transmit any photos or camera data.</p>
+
+    <h3>Photo Library Access</h3>
+    <p>If you choose to save photos to your device's photo library, we only write photos to your library. We do not read, access, or collect any existing photos from your library.</p>
+
+    <h3>In-App Purchases</h3>
+    <p>When you make an in-app purchase, Apple processes the transaction. We only receive confirmation of your purchase status. We do not collect payment information, which is handled entirely by Apple.</p>
+
+    <h3>Usage Data</h3>
+    <p>We may collect anonymous usage data to improve the app. This data does not include personal information or photos.</p>
+
+    <h2>How We Use Your Information</h2>
+    <ul>
+        <li>To provide and maintain the app</li>
+        <li>To process in-app purchases</li>
+        <li>To improve app performance and features</li>
+        <li>To send important app updates (if you opt in)</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <ul>
+        <li>All photo processing happens on your device</li>
+        <li>No photos are stored on our servers</li>
+        <li>No photos are transmitted to third parties</li>
+        <li>Purchase data is stored securely by Apple</li>
+    </ul>
+
+    <h2>Third-Party Services</h2>
+    
+    <h3>Apple Services</h3>
+    <ul>
+        <li><strong>App Store:</strong> For app distribution and in-app purchases</li>
+        <li><strong>iCloud:</strong> If you enable iCloud sync (optional)</li>
+    </ul>
+
+    <p>We do not share your data with any third-party services except as required by Apple's services.</p>
+
+    <h2>Your Rights</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Access your data</li>
+        <li>Request deletion of your data</li>
+        <li>Opt out of analytics (if applicable)</li>
+        <li>Cancel your subscription at any time through Apple</li>
+    </ul>
+
+    <h2>Children's Privacy</h2>
+    <p>Analog Lab Pro is suitable for all ages. We do not knowingly collect personal information from children under 13.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the app and updating the "Last Updated" date.</p>
+
+    <h2>Contact Us</h2>
+    <div class="contact-info">
+        <p>If you have questions about this Privacy Policy, please contact us at:</p>
+        <p><strong>Developer:</strong> Georg Werner</p>
+        <p><strong>Email:</strong> <a href="mailto:strongpulsepeak@gmail.com">strongpulsepeak@gmail.com</a></p>
+    </div>
+
+    <h2>Compliance</h2>
+    <p>This Privacy Policy complies with:</p>
+    <ul>
+        <li>Apple's App Store Review Guidelines</li>
+        <li>GDPR (General Data Protection Regulation)</li>
+        <li>CCPA (California Consumer Privacy Act)</li>
+    </ul>
+
+    <footer>
+        <p>© 2026 Georg Werner - Analog Lab Pro. All rights reserved.</p>
+    </footer>
+</body>
+</html>
